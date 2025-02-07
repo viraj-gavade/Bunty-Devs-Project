@@ -4,7 +4,7 @@
   "description": "a collaborative project",
   "main": "app.js",
   "scripts": {
-    "test": "npm run start:dev"
+    "test": "nodemon app.js"
   },
   "author": "Viraj Gavade",
   "license": "ISC"
