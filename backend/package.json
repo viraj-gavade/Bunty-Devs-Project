@@ -1,0 +1,11 @@
+{
+  "name": "ai-web-app",
+  "version": "1.0.0",
+  "description": "a collaborative project",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run start:dev"
+  },
+  "author": "Viraj Gavade",
+  "license": "ISC"
+}
